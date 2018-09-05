@@ -19,7 +19,7 @@ import com.brijesh.bookstore.models.Book;
 import com.brijesh.bookstore.service.BookService;
 
 /**
- * @author ashwanisolanki
+ * @author brijesh
  *         <p>
  *         Rest controller to serve basic operations on book entity.
  *         </p>

@@ -19,7 +19,7 @@ import com.brijesh.bookstore.constants.BookstoreConstants;
 import com.brijesh.bookstore.models.Book;
 
 /**
- * @author ashwanisolanki
+ * @author brijesh
  *         <p>
  *         Represents a repository to work on book entity. Repository can be a
  *         DB or another REST service to fetch books in context of bookstore.

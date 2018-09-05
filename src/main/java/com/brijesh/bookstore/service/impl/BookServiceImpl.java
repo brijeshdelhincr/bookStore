@@ -13,7 +13,7 @@ import com.brijesh.bookstore.repositories.BookRepsoitory;
 import com.brijesh.bookstore.service.BookService;
 
 /**
- * @author ashwanisolanki
+ * @author brijesh
  *         <p>
  *         Service class to implement specific business logic on books.Although
  *         no such business logic required. Still emulating the services
